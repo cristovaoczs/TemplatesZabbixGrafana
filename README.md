@@ -1,2 +1,2 @@
 # TemplatesZabbixGrafana
-Templates for zabbix and grafana 
+Templates for zabbix and grafana.
